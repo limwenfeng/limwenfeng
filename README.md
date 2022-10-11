@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Lim Wen Feng
 #### I am an aspring software engineer
 
-I studies Computer Engineering in National University of Singapore. Passionate about cyber security and software engineering, particularly web development in web security. 
+I studies Computer Engineering in National University of Singapore. Passionate about software engineering, particularly web development. 
 
-Skills: SQL / REACT / Javascript / HTML / CSS / Typescript
+Skills: SQL / REACT / Javascript / HTML / CSS / Typescript / C# ASP.NET Core / Python Flask
 
 
 
